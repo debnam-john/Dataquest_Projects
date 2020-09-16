@@ -1,2 +1,2 @@
-# Dataquest_Projects
-Collection of projects
+# Dataquest Projects
+Data Engineer course guided and unguided projects
